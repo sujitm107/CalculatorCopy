@@ -13,7 +13,7 @@ class RoundButton: UIButton {
     
     override func draw(_ rect: CGRect) {
         
-        self.layer.cornerRadius = 36
+        self.layer.cornerRadius = 38
         self.layer.masksToBounds = true
         //super.draw(rect)
     }
